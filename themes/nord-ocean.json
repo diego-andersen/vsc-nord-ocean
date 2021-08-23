@@ -90,6 +90,7 @@
     "editorSuggestWidget.border": "#3b4252",
     "editorSuggestWidget.foreground": "#d8dee9",
     "editorSuggestWidget.highlightForeground": "#88c0d0",
+    "editorSuggestWidget.selectedForeground": "#d8dee9",
     "editorSuggestWidget.selectedBackground": "#434c5e",
     "extensionButton.prominentForeground": "#d8dee9",
     "extensionButton.prominentBackground": "#434c5e",
@@ -133,7 +134,6 @@
     "merge.border": "#3b425200",
     "minimap.findMatchHighlight": "#88c0d0",
 
-    /* `notification.*` keys are legacy support for VS Code versions >1.21.0 */
     "notification.background": "#3b4252",
     "notification.buttonBackground": "#434c5e",
     "notification.buttonForeground": "#d8dee9",
